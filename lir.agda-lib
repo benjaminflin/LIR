@@ -1,0 +1,4 @@
+name: lir
+include: src 
+depend:
+    standard-library
